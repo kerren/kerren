@@ -22,7 +22,7 @@ I like to commit A LOT! I prefer to commit often and make a lot of smaller PRs o
 ## My Interests / Skills
 I've worked with a lot of frameworks, languages and infrastructure in my life. At [Entrostat](https://entrostat.com) we are industry agnostic and believe that the language is the tool used to solve the problem. So I've used a lot of languages, and we've solved a lot of problems! 
 
-### Frameworks & Languages
+### Frameworks, Languages & Libraries
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
@@ -34,6 +34,7 @@ I've worked with a lot of frameworks, languages and infrastructure in my life. A
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Laravel Nova](https://img.shields.io/badge/laravelnova-black?style=for-the-badge&logo=laravelnova)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white)
 ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)
@@ -42,11 +43,17 @@ I've worked with a lot of frameworks, languages and infrastructure in my life. A
 ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+![Supabase](https://img.shields.io/badge/Supabase-black?style=for-the-badge&logo=supabase
+)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![NGRX](https://img.shields.io/badge/NGRX-black?style=for-the-badge&logo=ngrx
+)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![NuxtJS](https://img.shields.io/badge/Nuxt-black?style=for-the-badge&logo=nuxt.js&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+![pnpm](https://img.shields.io/badge/pnpm-white?style=for-the-badge&logo=pnpm)
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
+![Auth0](https://img.shields.io/badge/auth0-white?style=for-the-badge&logo=auth0)
 ![Less](https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
@@ -58,6 +65,7 @@ I've worked with a lot of frameworks, languages and infrastructure in my life. A
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
+![D3](https://img.shields.io/badge/d3dotjs-white?style=for-the-badge&logo=d3dotjs)
 ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
@@ -69,12 +77,16 @@ I've worked with a lot of frameworks, languages and infrastructure in my life. A
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![ElasticSearch](https://img.shields.io/badge/elasticsearch-black?style=for-the-badge&logo=elasticsearch)
+![Sentry](https://img.shields.io/badge/sentry-black?style=for-the-badge&logo=sentry)
+![OpenCV](https://img.shields.io/badge/opencv-black?style=for-the-badge&logo=opencv)
 
 ### Devops / CI / Cloud
 
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Hetzner](https://img.shields.io/badge/hetzner-black?style=for-the-badge&logo=hetzner)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
@@ -82,14 +94,22 @@ I've worked with a lot of frameworks, languages and infrastructure in my life. A
 ![CircleCI](https://img.shields.io/badge/circle%20ci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/githubpages-black?style=for-the-badge&logo=githubpages)
 ![TravisCI](https://img.shields.io/badge/travis%20ci-%232B2F33.svg?style=for-the-badge&logo=travis&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![sonarqube](https://img.shields.io/badge/sonarqube-white?style=for-the-badge&logo=sonarqube)
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
+![Taskfile](https://img.shields.io/badge/Taskfile-white?style=for-the-badge&logo=task)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Alpine](https://img.shields.io/badge/alpinelinux-black?style=for-the-badge&logo=alpinelinux)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Traefik](https://img.shields.io/badge/traefik-black?style=for-the-badge&logo=traefikproxy)
 ![Rancher](https://img.shields.io/badge/rancher-%230075A8.svg?style=for-the-badge&logo=rancher&logoColor=white)
 ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)
+![Ngrok](https://img.shields.io/badge/ngrok-black?style=for-the-badge&logo=ngrok)
+![PM2](https://img.shields.io/badge/pm2-black?style=for-the-badge&logo=pm2)
+![Wireguard](https://img.shields.io/badge/wireguard-black?style=for-the-badge&logo=wireguard)
 
 ### Databases
 
@@ -105,6 +125,8 @@ I've worked with a lot of frameworks, languages and infrastructure in my life. A
 ### Testing
 ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Playwright](https://img.shields.io/badge/playwright-white?style=for-the-badge&logo=playwright
+)
 
 ### Blogging
 ![Ghost](https://img.shields.io/badge/ghost-000?style=for-the-badge&logo=ghost&logoColor=%23F7DF1E) ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
@@ -112,22 +134,35 @@ I've worked with a lot of frameworks, languages and infrastructure in my life. A
 
 ### Other Tools
 ![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
+![OpenAI](https://img.shields.io/badge/openai-black?style=for-the-badge&logo=openai)
+![Pocket](https://img.shields.io/badge/pocket-white?style=for-the-badge&logo=pocket)
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Gitkraken](https://img.shields.io/badge/gitkraken-black?style=for-the-badge&logo=gitkraken)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Rider](https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson)
 ![Tidal](https://img.shields.io/badge/tidal-00FFFF?style=for-the-badge&logo=tidal&logoColor=black)
+![ClickUp](https://img.shields.io/badge/clickup-white?style=for-the-badge&logo=clickup
+)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![1Password](https://img.shields.io/badge/1password-black?style=for-the-badge&logo=1password
+)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Diagrams.net](https://img.shields.io/badge/diagramsdotnet-white?style=for-the-badge&logo=diagramsdotnet)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+![Audible](https://img.shields.io/badge/audible-white?style=for-the-badge&logo=audible
+)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/googleanalytics-white?style=for-the-badge&logo=googleanalytics)
+![Wireshark](https://img.shields.io/badge/wireshark-black?style=for-the-badge&logo=wireshark)
+![Zapier](https://img.shields.io/badge/zapier-white?style=for-the-badge&logo=zapier)
 
 
 ### Operating Systems I've Installed (in my life)
