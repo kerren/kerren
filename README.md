@@ -190,7 +190,8 @@ Here are a few blog articles I'm pretty proud of:
 - [Install byobu on any Linux Distro](https://blog.entrostat.com/install-byobu-on-any-linux-distro/)
 - [Cloudflare & Subdomains](https://blog.entrostat.com/cloudflare-subdomain-error/)
 - [Installing NVIDIA Drivers on a Linux (Fedora) Laptop with Secure Boot Enabled](https://blog.entrostat.com/installing-nvidia-drivers-on-a-linux-laptop-with-secure-boot-enabled/)
-
+- [Angular Inputs - Improved Error UX](https://blog.entrostat.com/angular-inputs-improved-error-ux/)
+- [Supabase RLS using Functions - Security Definers](https://blog.entrostat.com/supabase-rls-functions/)
 
 
 ## Open Source Repos
