@@ -20,7 +20,7 @@ I like to commit A LOT! I prefer to commit often and make a lot of smaller PRs o
 [![GitHub Streak](https://streak-stats.demolab.com?user=kerren&theme=vue-dark&background=232C59&sideLabels=FFFFFF&stroke=FFFFFF&ring=05D3A1&currStreakLabel=FFFFFF&currStreakNum=05D3A1&sideNums=05D3A1&fire=05D3A1)](https://git.io/streak-stats)
 
 ## My Interests / Skills
-I've worked with a lot of frameworks, languages and infrastructure in my life. At [Entrostat](https://entrostat.com) we are industry agnostic and believe that the language is the tool used to solve the problem. So I've used a lot of languages, and we've solved a lot of problems! 
+I've worked with a lot of frameworks, languages and infrastructure in my life. At [Entrostat](https://entrostat.com) we are industry agnostic and believe that the language is the tool used to solve the problem. So I've used a lot of languages, and we've solved a lot of problems!
 
 ### Frameworks, Languages & Libraries
 
@@ -182,7 +182,7 @@ I've worked with a lot of frameworks, languages and infrastructure in my life. A
 Here are a few blog articles I'm pretty proud of:
 
 - [Routing Multiple Domains using HAProxy (HTTP and HTTPS)](https://blog.entrostat.com/routing-multiple-domains-using-haproxy-http-and-https-ssl/)
-- [Routing through a Floating IP on Hetzner Cloud](https://blog.entrostat.com/routing-through-floating-ip-hetzner-cloud/) 
+- [Routing through a Floating IP on Hetzner Cloud](https://blog.entrostat.com/routing-through-floating-ip-hetzner-cloud/)
 - [Packaging NestJS Modules for NPM Installs](https://blog.entrostat.com/packaging-nestjs-modules-for-npm-installs/)
 - [Setting up a Database Module in Nest.js](https://blog.entrostat.com/setting-up-a-database-module-in-nest-js/)
 - [OpenVPN vs Wireguard - Network Performance Tests](https://blog.entrostat.com/openvpn-vs-wireguard-network-performance-tests/)
@@ -199,6 +199,7 @@ Here are a few blog articles I'm pretty proud of:
 Here are a couple of Open Source projects I've created to help the development community.
 
 - [dockem](https://github.com/kerren/dockem)
+- [setup-dockem](https://github.com/kerren/setup-dockem)
 - [typeorm-test-transactions](https://github.com/entrostat/typeorm-test-transactions)
 - [certme](https://github.com/entrostat/certme)
 - [entro-ci](https://github.com/entrostat/entro-ci)
