@@ -15,7 +15,7 @@ Hi there! Welcome to my profile, take a look around 🔭
 
 I like to commit A LOT! I prefer to commit often and make a lot of smaller PRs over doing massive ones that have everything in one.
 
-![](https://github-readme-stats-kerren-entrostatco.vercel.app/api?username=kerren&count_private=true&bg_color=30,323b68,19224f&title_color=00f4b1&text_color=ffffff&custom_title=Kerren's%20Stats%20for%202023)
+![](https://github-readme-stats-kerren-entrostatco.vercel.app/api?username=kerren&count_private=true&bg_color=30,323b68,19224f&title_color=00f4b1&text_color=ffffff&custom_title=Kerren's%20Stats%20for%202024)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=kerren&theme=vue-dark&background=232C59&sideLabels=FFFFFF&stroke=FFFFFF&ring=05D3A1&currStreakLabel=FFFFFF&currStreakNum=05D3A1&sideNums=05D3A1&fire=05D3A1)](https://git.io/streak-stats)
 
