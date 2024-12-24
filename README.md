@@ -204,9 +204,9 @@ Here are a few blog articles I'm pretty proud of:
 
 Here are a couple of Open Source projects I've created to help the development community.
 
+- [brrelease](https://github.com/kerren/brrelease)
 - [dockem](https://github.com/kerren/dockem)
 - [setup-dockem](https://github.com/kerren/setup-dockem)
-- [brrelease](https://github.com/kerren/brrelease)
 - [typeorm-test-transactions](https://github.com/entrostat/typeorm-test-transactions)
 - [certme](https://github.com/entrostat/certme)
 - [entro-ci](https://github.com/entrostat/entro-ci)
