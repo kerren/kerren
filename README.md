@@ -9,6 +9,7 @@ Hi there! Welcome to my profile, take a look around 🔭
 - Electrical Engineer with my Masters in Power Electronics
 - Open source contributor
 - South African
+- I have a blog at [kerrenortlepp.com](https://kerrenortlepp.com)
 
 
 ## My Stats
@@ -106,8 +107,10 @@ I've worked with a lot of frameworks, languages and infrastructure in my life. A
 ![Traefik](https://img.shields.io/badge/traefik-black?style=for-the-badge&logo=traefikproxy)
 ![TravisCI](https://img.shields.io/badge/travis%20ci-%232B2F33.svg?style=for-the-badge&logo=travis&logoColor=white)
 ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)
+![Homebrew](https://img.shields.io/badge/homebrew-%232E2A24?style=for-the-badge&logo=homebrew)
 ![Wireguard](https://img.shields.io/badge/wireguard-black?style=for-the-badge&logo=wireguard)
 ![sonarqube](https://img.shields.io/badge/sonarqube-white?style=for-the-badge&logo=sonarqube)
+
 
 ### Databases
 
@@ -136,6 +139,7 @@ I've worked with a lot of frameworks, languages and infrastructure in my life. A
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
 ![ClickUp](https://img.shields.io/badge/clickup-white?style=for-the-badge&logo=clickup)
 ![Diagrams.net](https://img.shields.io/badge/diagramsdotnet-white?style=for-the-badge&logo=diagramsdotnet)
+![Goland](https://img.shields.io/badge/goland-%232F54FF?style=for-the-badge&logo=goland)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
@@ -151,6 +155,7 @@ I've worked with a lot of frameworks, languages and infrastructure in my life. A
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Rider](https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson)
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
+![Datagrip](https://img.shields.io/badge/datagrip-%237745FF?style=for-the-badge&logo=datagrip)
 ![Tidal](https://img.shields.io/badge/tidal-00FFFF?style=for-the-badge&logo=tidal&logoColor=black)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
@@ -192,6 +197,7 @@ Here are a few blog articles I'm pretty proud of:
 - [Installing NVIDIA Drivers on a Linux (Fedora) Laptop with Secure Boot Enabled](https://blog.entrostat.com/installing-nvidia-drivers-on-a-linux-laptop-with-secure-boot-enabled/)
 - [Angular Inputs - Improved Error UX](https://blog.entrostat.com/angular-inputs-improved-error-ux/)
 - [Supabase RLS using Functions - Security Definers](https://blog.entrostat.com/supabase-rls-functions/)
+- [Running 1Password on Zen Browser](https://kerrenortlepp.com/running-1password-on-zen-browser/)
 
 
 ## Open Source Repos
@@ -200,6 +206,7 @@ Here are a couple of Open Source projects I've created to help the development c
 
 - [dockem](https://github.com/kerren/dockem)
 - [setup-dockem](https://github.com/kerren/setup-dockem)
+- [brrelease](https://github.com/kerren/brrelease)
 - [typeorm-test-transactions](https://github.com/entrostat/typeorm-test-transactions)
 - [certme](https://github.com/entrostat/certme)
 - [entro-ci](https://github.com/entrostat/entro-ci)
